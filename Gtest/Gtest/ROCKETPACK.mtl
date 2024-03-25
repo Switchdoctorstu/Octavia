@@ -1,0 +1,117 @@
+# Blender MTL File: 'ROCKETPACK.blend'
+# Material Count: 11
+
+newmtl Black_knitted_cotton
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.002000 assets/materials/black_knitted_co_a687acba-d235-4d73-b04c-21ce9cea477d/textures_2k/fabric-normal.jpg
+map_Kd assets/materials/black_knitted_co_a687acba-d235-4d73-b04c-21ce9cea477d/textures_2k/fabric-diffuse.jpg
+map_Ns assets/materials/black_knitted_co_a687acba-d235-4d73-b04c-21ce9cea477d/textures_2k/fabric-roughness.jpg
+
+newmtl Car_leather_red
+Ns 103.074779
+Ka 1.000000 1.000000 1.000000
+Kd 0.233016 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Car_leather_red.002
+Ns 103.074779
+Ka 1.000000 1.000000 1.000000
+Kd 0.233016 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl LargeMissile_Weapons_SharkT_Air_Striker_Hell_Flame_Missile_(3)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /Users/Shared/My DAZ 3D Library/Runtime/Textures/Polish/SharkT Air Striker/Green/Weapons_DefaultMaterial_BaseColor.jpg
+
+newmtl Metal_Black_Dixon
+Ns 232.148777
+Ka 1.000000 1.000000 1.000000
+Kd 0.046543 0.046543 0.046543
+Ks 0.604545 0.604545 0.604545
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Metal_Black_Dixon_NONE
+Ns 232.148777
+Ka 1.000000 1.000000 1.000000
+Kd 0.046543 0.046543 0.046543
+Ks 0.604545 0.604545 0.604545
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Rusted_Bronze
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Rusted_Bronze.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Rusted_Bronze.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Rusted_Bronze.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl THOR_Missile
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /Users/Shared/My DAZ 3D Library/Runtime/Textures/Polish/Thor Air striker/Camo/THOR Air Stricker_THOR_Missile_BaseColor.jpg
